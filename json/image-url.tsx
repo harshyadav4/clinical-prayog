@@ -1,0 +1,1 @@
+export const drRatnakar ="https://firebasestorage.googleapis.com/v0/b/dr--prescription.appspot.com/o/fcfdd4fd-3b3f-47ce-bcf4-1018925081ad_20241215_025104_0000.jpg?alt=media&token=e8ab70df-6089-4a0a-8683-e056b9d0b9d5";
